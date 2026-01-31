@@ -30,7 +30,7 @@ Together, we cultivate a garden of ideas where truth-seeking is delightful, pres
 ## Getting Started
 
 1. **Join the Discussion**  
-   - [Discord Invite Link] (to be added once created)  
+   - https://discord.gg/byWDy4Br 
    - [Matrix Room Link] (to be added if using Matrix/Element)  
    - GitHub Discussions (this repo) for archived/deep threads  
 
