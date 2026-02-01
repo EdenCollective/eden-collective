@@ -66,3 +66,8 @@ This project emerges from mutual curiosity and a shared belief that liberated, c
 
 Welcome to Eden.  
 Let's cultivate.
+
+The Eden Collective logo and name are protected by copyright (automatic in Australia) and intended for use with this project.
+For non-commercial/open-source use: Feel free to reference or fork with attribution.
+Commercial use or similar branding: Please contact (chuphshah@proton.me) first.
+© 2026 James / Eden Collective
